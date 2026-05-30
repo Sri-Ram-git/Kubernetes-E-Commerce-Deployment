@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: ecommerce-deployment
+
+spec:
+replicas: {{ .Values.replicaCount }}
+
+selector:
+  matchLabels:
+    app: ecommerce-site
+
+  template:
+    metadata:
+      labels:
+        app: ecommerce-site
+
+    spec:
+      containers:
+      - name: ecommerce-container
+        image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+        imagePullPolicy: Never
+
+        ports:
+        - containerPort: 80
