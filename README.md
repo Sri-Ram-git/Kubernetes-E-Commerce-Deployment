@@ -576,9 +576,9 @@ This project is designed as a foundation. The next steps to make it production-r
 
 **Stars help other learners find this project and motivate continued improvements.**
 
-[![Star this repo](https://img.shields.io/github/stars/yourusername/k8s-ecommerce?style=social)](https://github.com/yourusername/k8s-ecommerce)
-[![Fork this repo](https://img.shields.io/github/forks/yourusername/k8s-ecommerce?style=social)](https://github.com/yourusername/k8s-ecommerce/fork)
-[![Watch this repo](https://img.shields.io/github/watchers/yourusername/k8s-ecommerce?style=social)](https://github.com/yourusername/k8s-ecommerce/watchers)
+[![Star this repo](https://img.shields.io/github/stars/yourusername/k8s-ecommerce?style=social)](https://github.com/Sri-Ram-git/Kubernetes-E-Commerce-Deployment)
+[![Fork this repo](https://img.shields.io/github/forks/yourusername/k8s-ecommerce?style=social)](https://github.com/Sri-Ram-git/Kubernetes-E-Commerce-Deployment/fork)
+[![Watch this repo](https://img.shields.io/github/watchers/yourusername/k8s-ecommerce?style=social)](https://github.com/Sri-Ram-git/Kubernetes-E-Commerce-Deployment/watchers)
 
 <br/>
 
