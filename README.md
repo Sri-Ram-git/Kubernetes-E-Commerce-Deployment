@@ -564,8 +564,8 @@ This project is designed as a foundation. The next steps to make it production-r
 ## 👤 Author
 
 **Your Name**
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/es-sriram)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/Sri-Ram-git)
+- 🔗 LinkedIn: [linkedin.com/in/es-sriram](https://linkedin.com/in/es-sriram)
+- 🐙 GitHub: [github.com/Sri-Ram-git](https://github.com/Sri-Ram-git)
 - 📧 Email: sriram.es.contact@gmail.com
 
 ---
@@ -576,9 +576,9 @@ This project is designed as a foundation. The next steps to make it production-r
 
 **Stars help other learners find this project and motivate continued improvements.**
 
-[![Star this repo](https://img.shields.io/github/stars/yourusername/k8s-ecommerce?style=social)](https://github.com/yourusername/k8s-ecommerce)
-[![Fork this repo](https://img.shields.io/github/forks/yourusername/k8s-ecommerce?style=social)](https://github.com/yourusername/k8s-ecommerce/fork)
-[![Watch this repo](https://img.shields.io/github/watchers/yourusername/k8s-ecommerce?style=social)](https://github.com/yourusername/k8s-ecommerce/watchers)
+[![Star this repo](https://img.shields.io/github/stars/Sri-Ram-git/Kubernetes-E-Commerce-Deployment?style=social)](https://github.com/Sri-Ram-git/Kubernetes-E-Commerce-Deployment)
+[![Fork this repo](https://img.shields.io/github/forks/Sri-Ram-git/Kubernetes-E-Commerce-Deployment?style=social)](https://github.com/Sri-Ram-git/Kubernetes-E-Commerce-Deployment/fork)
+[![Watch this repo](https://img.shields.io/github/watchers/Sri-Ram-git/Kubernetes-E-Commerce-Deployment?style=social)](https://github.com/Sri-Ram-git/Kubernetes-E-Commerce-Deployment/watchers)
 
 <br/>
 
