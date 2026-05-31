@@ -564,8 +564,8 @@ This project is designed as a foundation. The next steps to make it production-r
 ## 👤 Author
 
 **Your Name**
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/es-sriram)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/Sri-Ram-git)
+- 🔗 LinkedIn: [linkedin.com/in/es-sriram](https://linkedin.com/in/es-sriram)
+- 🐙 GitHub: [github.com/Sri-Ram-git](https://github.com/Sri-Ram-git)
 - 📧 Email: sriram.es.contact@gmail.com
 
 ---
